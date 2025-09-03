@@ -21,7 +21,7 @@ A simple Python project that merges multiple PDF files into one using the `PyPDF
    pip install PyPDF2
    Run the script:
 
-python pdf_merger.py
+   python pdf_merger.py
 
 Enter how many PDFs you want to merge.
 
